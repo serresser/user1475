@@ -1,0 +1,15 @@
+{
+  "originHash" : "d273eec176c27337340f6e12504b9ad7b0f5a77fd575e8d458d86c90376ed572",
+  "pins" : [
+    {
+      "identity" : "pushexpress-swift-sdk",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/pushexpress/pushexpress-swift-sdk.git",
+      "state" : {
+        "revision" : "5c5bb30553adb1f4aedbdeb840497bcceb0445da",
+        "version" : "1.1.2"
+      }
+    }
+  ],
+  "version" : 3
+}
